@@ -49,7 +49,7 @@ Disassembled view:<p><img src = "https://github.com/1Rebern/smart-alarm-clock-es
 
 Final assembly view:<p><img src = "https://github.com/1Rebern/smart-alarm-clock-esp32/blob/bb8efe545ff15daeeeb21c6e58e9ab9a34d6c4a4/Preview/final_assembly.jpg">
 # Example of work
-Відправивши боту команду /start ми отримаємо список команд:
+By sending the /start command to the bot, we will receive a list of commands:
 * Ласкаво просимо! 😊<p>Ось доступні команди:<p>/start - показати цей список команд<p>/dir - Список файлів на SD-карті<p>/upload - Завантаження файлу<p>/delete <ім'я_файлу> - Видалення файлу<p>/play <ім'я_файлу> - Відтворення файлу<p>/volume <0-21> - Змінити гучність<p>/sound <ім'я_файлу> - Вибір звуку будильника<p>/setalarm - Додати будильник<p>/viewalarms - Переглянути будильники<p>/deletealarm - Видалити будильник<p>/play <ім'я_файлу> - Відтворити звук
 
 Eample of setting an alarm:<p><img src = "https://github.com/1Rebern/smart-alarm-clock-esp32/blob/bb8efe545ff15daeeeb21c6e58e9ab9a34d6c4a4/Preview/example.png">
