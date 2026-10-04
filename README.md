@@ -40,14 +40,14 @@ The device was developed as a complete physical product rather than only a softw
       ┌───────┐        ┌─────────┐       ┌──────────┐
       │ OLED  │        │ SD Card │       │ LED Strip│
       └───────┘        └────┬────┘       └──────────┘
-                             │
-                             ▼
-                        ┌─────────┐
-                        │MAX98357A│
-                        └────┬────┘
-                             │
-                             ▼
-                          Speaker
+                            │
+                            ▼
+                       ┌─────────┐
+                       │MAX98357A│
+                       └────┬────┘
+                            │
+                            ▼
+                         Speaker
 ```
 
 ---
