@@ -57,7 +57,7 @@ The device was developed as a complete physical product rather than only a softw
 The complete device connection scheme:
 
 <p>
-<img src="https://github.com/1Rebern/smart-alarm-clock-esp32/blob/main/Preview/Smart_Alarm_Clock.svg?raw=true">
+<img src="https://github.com/1Rebern/smart-alarm-clock-esp32/blob/main/Preview/Smart_Alarm_Clock.jpg?raw=true">
 </p>
 
 ---
