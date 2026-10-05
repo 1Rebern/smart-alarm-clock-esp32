@@ -67,8 +67,8 @@ The complete device connection scheme:
 The project uses the following components:
 
 - ESP32 38-pin development board
-- 5 V UPS module
-- 8 Ω 0.25 W speaker
+- 5V UPS module
+- 8Ω 0.25W speaker
 - MAX98357A audio amplifier
 - IRF540N transistor
 - 0.91-inch display
